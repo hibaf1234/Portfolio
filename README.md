@@ -13,16 +13,13 @@ Key Features:
        - Parameter-driven switch between alcohol and drug metrics, enabling a detailed comparative analysis.
 
   3) Weekly Crash Frequency:
-
-    - Visual representation of crash frequency throughout the week, offering insights into substance-related patterns.
+       - Visual representation of crash frequency throughout the week, offering insights into substance-related patterns.
 
   3) Injury Impact Visualization:
+       - Graphic display of the impact of substance-related crashes on the severity of injuries sustained.
 
-    - Graphic display of the impact of substance-related crashes on the severity of injuries sustained.
-
-  4) Crash Characteristics Analysis:
-
-    - Examination of crash characteristics and their correlation with hospitalization or fatality, categorized by alcohol or drug involvement.
+  5) Crash Characteristics Analysis:
+       - Examination of crash characteristics and their correlation with hospitalization or fatality, categorized by alcohol or drug involvement.
 
 This project serves as a testament to my commitment to leveraging data for informed decision-making in the realm of automotive safety. It is not only a showcase of technical skills but a demonstration of strategic thinking and analytical prowess.
 
