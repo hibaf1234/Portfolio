@@ -18,6 +18,17 @@
     - Evaluate the robustness of coefficient estimates by bootstrapping model
     - Use cross-validation to evaluate model’s performance
 
+**Quant Finance: Trading Strategy**
+
+- Trading Strategy
+      - Build a strategy based off technical indicators
+
+- Portfolio Optimisation
+      - Build a Minimum Variance Portfolio
+
+- AI Bots
+      - Set up AI Bots that will Buy for you
+
 **NYC Airbnb Data Analysis**
 
 In the Exploring the NYC Airbnb Market project, I will apply data importing and cleaning skills to analyze the Airbnb market in New York. I will ingest and combine the data from multiple file types, and clean strings and format dates to extract accurate information.  
