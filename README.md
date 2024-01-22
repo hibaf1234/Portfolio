@@ -14,6 +14,8 @@ Welcome to the Take-Two Interactive Sales Dashboard, a comprehensive visualizati
    
 Whether you're a gaming enthusiast, industry analyst, or simply curious about Take-Two Interactive's sales performance, this dashboard provides a visually engaging and informative exploration of the company's journey through the gaming landscape. Download, explore, and uncover the story behind Take-Two Interactive's success in the world of gaming.
 
+(P.S. PowerPoint attached incase Tableau not accessible to get idea of what the dashboard might look like, but open Tableau to see interactive features)
+
 **Econometrics Project: What Variables Impact Attendance**
 
 - **Descriptive Analysis:** Perform a univariate analysis
