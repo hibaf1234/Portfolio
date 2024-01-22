@@ -1,5 +1,4 @@
-**Econometrics What Variables Impact Attendance**
-Econometrics Project: Which Predictor Variables Impact Attendance
+**Econometrics Project: What Variables Impact Attendance**
 
 - Descriptive Analysis: Perform a univariate analysis
     - histograms, quantile plots, correlation plots, etc.
