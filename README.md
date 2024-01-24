@@ -2,30 +2,35 @@
 
 **Video Games Python Code**
 
-- Overview
-      - This repository contains Python code for analyzing video game sales data. The dataset, obtained from Kaggle, includes information about various video games, such as sales rank, name, platform, year of release, genre, publisher, and sales data for different regions (North America, Europe, Japan, and others).
+This repository contains Python code for analyzing video game sales data. The dataset, obtained from Kaggle, includes information about various video games, such as sales rank, name, platform, year of release, genre, publisher, and sales data for different regions (North America, Europe, Japan, and others).
 
-- Contents
-     - Data Import and Cleaning:
-          - Utilizes Pandas to import and clean the video game sales dataset.
-          - Drops missing values and checks for duplicates.
-     - Exploratory Data Analysis (EDA):
-          - Provides a summary of the data, including statistics and data types.
-          - Visualizes sales distribution using histograms, boxplots, and quantile plots.
-          - Examines the correlation matrix to identify relationships between sales in different regions.
-     - Top 5 Analysis:
-          - Identifies the top 5 best-selling games, genres, platforms, and publishers based on global sales.
-     - Sales Distribution:
-          - Presents a bar chart showing the distribution of sales across different regions.
-     - Yearly Trends:
-          - Displays a line plot illustrating the global sales trend from 1997 to 2016.
-     - Genre-Platform Combinations:
-          - Utilizes a heatmap to visualize the global sales of different genre-platform combinations.
-     - Statistical Analysis:
-          - Conducts hypothesis testing for platform impact, genre impact, and publisher impact on global sales.
-          - Builds a linear regression model to predict global sales based on genre, publisher, and platform.
-          - Assesses multicollinearity, heteroskedasticity, and robustness of coefficient estimates.
-          - Uses cross-validation to evaluate model performance.
+**Data Import and Cleaning:**
+- Utilizes Pandas to import and clean the video game sales dataset.
+- Drops missing values and checks for duplicates.
+  
+**Exploratory Data Analysis (EDA):**
+- Provides a summary of the data, including statistics and data types.
+- Visualizes sales distribution using histograms, boxplots, and quantile plots.
+- Examines the correlation matrix to identify relationships between sales in different regions.
+
+**Top 5 Analysis:**
+- Identifies the top 5 best-selling games, genres, platforms, and publishers based on global sales.
+
+**Sales Distribution:**
+- Presents a bar chart showing the distribution of sales across different regions.
+
+**Yearly Trends:**
+- Displays a line plot illustrating the global sales trend from 1997 to 2016.
+          
+**Genre-Platform Combinations:**
+- Utilizes a heatmap to visualize the global sales of different genre-platform combinations.
+
+**Statistical Analysis:**
+- Conducts hypothesis testing for platform impact, genre impact, and publisher impact on global sales.
+- Builds a linear regression model to predict global sales based on genre, publisher, and platform.
+- Assesses multicollinearity, heteroskedasticity, and robustness of coefficient estimates.
+- Uses cross-validation to evaluate model performance
+  
 (P.S. Adding more code, will update folder accordingly)
 
 **Take-Two Interactive Sales Tableau Dashboard**
