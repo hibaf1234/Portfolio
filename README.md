@@ -104,7 +104,7 @@ How do Londoners get around? This project dives into the vast public transport n
 - **AI Bots**
       - Set up AI Bots that will Buy for you
 
-# NYC Airbnb Data Analysis
+# DataCamp: NYC Airbnb Data Analysis
 
 In the Exploring the NYC Airbnb Market project, I will apply data importing and cleaning skills to analyze the Airbnb market in New York. I will ingest and combine the data from multiple file types, and clean strings and format dates to extract accurate information.  
 
