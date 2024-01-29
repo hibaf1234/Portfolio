@@ -5,6 +5,7 @@
 Welcome to the Fashion Forward E-Commerce Clothing Classifier project! In this endeavor, we aim to revolutionize the fashion and retail industry by developing an innovative garment classification system. Our goal is to create a smarter, more efficient, and user-friendly shopping experience, leveraging cutting-edge AI and machine learning techniques.
 
 **Objective**
+
 As a data scientist, the primary objective is to implement a garment classifier that automates the categorization of clothing items for Fashion Forward, a new AI-based e-commerce clothing retailer. The classifier will assist in automatically categorizing new product listings, making it easier for customers to find their desired items and facilitating efficient inventory management.
 
 **Technical Details**
