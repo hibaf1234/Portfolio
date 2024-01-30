@@ -2,7 +2,7 @@
 
 **Video Games Python Code**
 
-This repository contains Python code for analyzing video game sales data. The dataset, obtained from Kaggle, includes information about various video games, such as sales rank, name, platform, year of release, genre, publisher, and sales data for different regions (North America, Europe, Japan, and others).
+This repository contains Python code (PDF also available) for analyzing video game sales data. The dataset, obtained from Kaggle, includes information about various video games, such as sales rank, name, platform, year of release, genre, publisher, and sales data for different regions (North America, Europe, Japan, and others).
 
 **Data Import and Cleaning:**
 - Utilizes Pandas to import and clean the video game sales dataset.
