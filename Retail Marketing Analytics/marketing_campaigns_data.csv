@@ -1,0 +1,501 @@
+campaign_id,ad_platform,impressions,clicks,conversions,spend,target_audience,campaign_objective,device_type,start_date,end_date
+1361,Instagram,281966,25262,366,6177.57,Retargeting,Sales Conversion,Tablet,2024-10-09,2024-12-31
+1073,Facebook,316468,11546,684,32400.49,New Customers,Video Views,Mobile,2024-08-16,2024-12-29
+1374,Google Ads,388467,31963,1975,11585.87,Millennials,Sales Conversion,Tablet,2024-08-14,2025-01-16
+1155,LinkedIn,321255,29269,2106,31359.81,Millennials,Sales Conversion,Desktop,2024-09-26,2025-01-01
+1104,LinkedIn,481326,23650,3194,32859.85,Millennials,Sales Conversion,Mobile,2024-08-22,2025-01-21
+1394,TikTok,66389,3211,2320,8449.22,Retargeting,Brand Awareness,Mobile,2024-08-01,2025-01-19
+1377,Facebook,172177,5353,1489,4006.13,Millennials,Retargeting,Mobile,2024-10-07,2025-01-28
+1124,Google Ads,353571,29577,602,39257.32,New Customers,Brand Awareness,Tablet,2024-08-20,2025-01-07
+1068,TikTok,209818,24363,765,23530.22,Gen Z,Brand Awareness,Mobile,2024-10-05,2024-12-21
+1450,Instagram,172883,22292,3961,3850.03,Gen Z,Sales Conversion,Mobile,2024-10-20,2024-12-11
+1009,TikTok,268958,40983,1763,49748.45,Tech Enthusiasts,Brand Awareness,Mobile,2024-08-07,2024-12-02
+1194,TikTok,288213,9442,3439,3831.25,New Customers,Sales Conversion,Tablet,2024-10-08,2024-12-31
+1406,Facebook,443333,48775,1157,35056.73,Millennials,Retargeting,Desktop,2024-08-23,2024-11-03
+1084,Instagram,437952,49094,4256,49200.27,Gen Z,Video Views,Mobile,2024-10-01,2024-11-02
+1371,TikTok,162221,2262,300,12719.83,New Customers,Sales Conversion,Desktop,2024-10-21,2024-11-09
+1388,Google Ads,325378,32487,2480,7970.22,Gen Z,Retargeting,Tablet,2024-10-17,2025-01-24
+1495,Google Ads,310669,16350,2104,6947.86,Millennials,Video Views,Tablet,2024-10-01,2024-12-15
+1030,LinkedIn,284936,12612,508,15860.48,Gen Z,Engagement,Tablet,2024-10-30,2024-11-15
+1316,Instagram,365585,24558,257,5951.24,Tech Enthusiasts,Sales Conversion,Tablet,2024-10-01,2024-11-15
+1408,Instagram,50846,45920,949,34915.91,Tech Enthusiasts,Sales Conversion,Desktop,2024-09-19,2024-11-15
+1490,LinkedIn,60954,39390,3511,4052.3,Gen Z,Engagement,Mobile,2024-08-04,2025-01-17
+1491,TikTok,391383,981,3435,25961.68,New Customers,Engagement,Tablet,2024-09-26,2024-12-12
+1280,Instagram,294761,47804,71,49838.15,New Customers,Sales Conversion,Tablet,2024-09-06,2024-11-17
+1356,Google Ads,358658,33421,459,40884.54,New Customers,Engagement,Desktop,2024-08-07,2024-12-04
+1076,Google Ads,400380,40885,944,31145.75,Gen Z,Brand Awareness,Desktop,2024-09-30,2024-11-25
+1461,Facebook,409723,2024,564,16006.43,New Customers,Video Views,Tablet,2024-09-02,2024-11-27
+1497,Instagram,187541,35388,4954,31570.9,Millennials,Video Views,Mobile,2024-08-22,2024-11-23
+1211,TikTok,473321,15548,4159,26825.03,Tech Enthusiasts,Video Views,Mobile,2024-10-27,2025-01-09
+1101,LinkedIn,354245,35611,2184,21878.09,Millennials,Brand Awareness,Tablet,2024-08-10,2024-12-25
+1334,LinkedIn,114323,38404,3645,7404.81,New Customers,Engagement,Desktop,2024-09-25,2024-12-03
+1475,TikTok,141922,34508,3006,44443.61,Millennials,Retargeting,Tablet,2024-08-13,2024-11-28
+1336,Snapchat,239139,560,1610,23039.45,New Customers,Engagement,Tablet,2024-08-24,2024-11-14
+1440,Facebook,230448,9630,1316,10536.5,Gen Z,Sales Conversion,Desktop,2024-10-29,2025-01-26
+1173,LinkedIn,226659,18523,2219,19020.21,Millennials,Video Views,Tablet,2024-09-17,2025-01-29
+1002,Instagram,480192,45580,3688,21292.36,Gen Z,Engagement,Tablet,2024-10-28,2025-01-11
+1333,Facebook,285659,13850,799,41549.36,Gen Z,Retargeting,Tablet,2024-09-25,2025-01-08
+1409,Instagram,439678,24854,3477,36947.1,Retargeting,Sales Conversion,Desktop,2024-10-04,2024-11-25
+1070,Google Ads,379728,45686,4830,38695.94,New Customers,Brand Awareness,Mobile,2024-10-11,2025-01-30
+1209,Facebook,154537,28645,1977,1540.53,Tech Enthusiasts,Brand Awareness,Mobile,2024-08-10,2025-01-18
+1063,LinkedIn,390621,34520,3854,21391.55,New Customers,Retargeting,Desktop,2024-10-25,2024-12-16
+1384,Facebook,291983,21087,3752,24585.86,Tech Enthusiasts,Sales Conversion,Mobile,2024-10-11,2025-01-09
+1093,Facebook,92533,41631,2406,1940.42,New Customers,Video Views,Tablet,2024-09-27,2024-11-12
+1485,Facebook,313972,10150,4840,13730.85,Gen Z,Engagement,Mobile,2024-10-02,2025-01-04
+1185,Snapchat,51917,20433,2385,38254.2,Millennials,Sales Conversion,Tablet,2024-10-24,2024-11-28
+1033,Facebook,332762,21081,356,7718.38,Millennials,Brand Awareness,Mobile,2024-08-04,2024-11-12
+1077,Instagram,82254,23893,3715,27230.2,Retargeting,Retargeting,Desktop,2024-09-28,2024-11-03
+1000,Google Ads,311987,23551,2039,11544.89,Tech Enthusiasts,Retargeting,Mobile,2024-08-07,2025-01-09
+1011,TikTok,417436,26712,711,1593.92,Tech Enthusiasts,Engagement,Mobile,2024-08-17,2024-12-28
+1415,Facebook,97362,49582,4694,12818.87,Tech Enthusiasts,Retargeting,Mobile,2024-08-09,2024-11-09
+1022,LinkedIn,332272,4590,361,48817.81,Gen Z,Retargeting,Desktop,2024-09-05,2024-11-18
+1072,Facebook,435925,7460,2970,40275.32,Tech Enthusiasts,Sales Conversion,Mobile,2024-09-29,2024-12-20
+1182,LinkedIn,292353,36272,1132,48019.26,Millennials,Video Views,Desktop,2024-09-11,2024-11-18
+1131,Instagram,240455,22020,3021,24904.85,Gen Z,Engagement,Tablet,2024-09-12,2024-11-28
+1410,LinkedIn,115545,49981,804,6377.07,New Customers,Sales Conversion,Mobile,2024-09-19,2024-12-31
+1193,TikTok,132180,36908,4180,27850.01,Tech Enthusiasts,Video Views,Desktop,2024-08-13,2024-12-18
+1055,Google Ads,137958,28970,4590,23264.49,Tech Enthusiasts,Sales Conversion,Desktop,2024-10-21,2024-12-09
+1148,LinkedIn,453081,20991,402,42373.5,New Customers,Sales Conversion,Mobile,2024-10-10,2024-11-14
+1018,LinkedIn,445435,1841,952,5806.05,Tech Enthusiasts,Retargeting,Tablet,2024-09-24,2024-11-15
+1204,Google Ads,351953,45123,3938,24923.82,New Customers,Video Views,Desktop,2024-09-07,2025-01-08
+1078,TikTok,428892,25291,208,8352.38,Gen Z,Engagement,Mobile,2024-09-25,2024-12-01
+1494,Facebook,55287,838,2027,16909.12,Millennials,Engagement,Tablet,2024-09-08,2025-01-28
+1262,LinkedIn,307665,6395,1006,37130.5,New Customers,Video Views,Desktop,2024-10-21,2024-12-06
+1323,Google Ads,477603,12754,2121,24324.89,Retargeting,Retargeting,Desktop,2024-08-28,2025-01-01
+1483,Instagram,58512,11844,453,19418.53,New Customers,Brand Awareness,Tablet,2024-09-26,2025-01-19
+1079,Google Ads,182414,2250,4661,20329.34,Tech Enthusiasts,Sales Conversion,Tablet,2024-09-10,2024-12-12
+1039,Instagram,158872,2921,2829,23512.89,Gen Z,Retargeting,Mobile,2024-08-31,2024-11-03
+1451,TikTok,462432,40387,1437,39465.81,Gen Z,Video Views,Mobile,2024-09-18,2024-12-17
+1046,Facebook,297754,5819,3503,44712.15,New Customers,Sales Conversion,Desktop,2024-09-08,2025-01-02
+1238,Google Ads,143070,16396,1005,47811.4,Millennials,Engagement,Tablet,2024-10-09,2024-11-25
+1391,Snapchat,129767,12418,1762,39558.27,Retargeting,Brand Awareness,Tablet,2024-10-05,2024-12-26
+1352,LinkedIn,147829,25564,4753,16454.94,Gen Z,Engagement,Tablet,2024-08-04,2024-12-20
+1341,TikTok,469830,47117,1323,34718.6,Tech Enthusiasts,Video Views,Desktop,2024-09-19,2024-11-26
+1277,Google Ads,479474,28435,3861,22442.55,Tech Enthusiasts,Sales Conversion,Tablet,2024-10-07,2024-12-13
+1290,LinkedIn,92078,38141,2675,13478.86,Millennials,Video Views,Tablet,2024-09-18,2024-11-26
+1317,Google Ads,418432,30211,2432,42202.71,Gen Z,Sales Conversion,Desktop,2024-10-26,2024-11-13
+1304,Instagram,133524,5306,1491,2882.89,New Customers,Retargeting,Mobile,2024-08-26,2025-01-14
+1268,Google Ads,277645,41860,3029,45186.34,Tech Enthusiasts,Brand Awareness,Mobile,2024-08-03,2024-11-05
+1069,Snapchat,62219,12682,1847,23612.4,Millennials,Retargeting,Desktop,2024-09-27,2024-11-02
+1455,Google Ads,312379,22797,4440,32222.87,Gen Z,Retargeting,Tablet,2024-09-28,2024-12-03
+1465,Google Ads,355073,20041,4059,33308.34,Gen Z,Video Views,Desktop,2024-10-24,2024-11-18
+1154,Snapchat,177309,29421,4900,44860.77,Gen Z,Brand Awareness,Mobile,2024-08-20,2024-11-11
+1082,TikTok,379588,17274,1444,32196.81,Gen Z,Sales Conversion,Mobile,2024-10-26,2024-11-30
+1477,Google Ads,189639,45313,4331,31082.75,Gen Z,Sales Conversion,Desktop,2024-10-23,2024-11-16
+1172,Snapchat,413978,37698,1319,4265.95,Tech Enthusiasts,Engagement,Desktop,2024-10-27,2024-12-29
+1321,LinkedIn,246513,9320,4782,26401.99,Millennials,Sales Conversion,Mobile,2024-09-07,2024-12-13
+1090,Instagram,396699,24570,3764,8358.28,Gen Z,Video Views,Desktop,2024-08-23,2024-11-24
+1180,Instagram,385842,4732,579,37134.25,Retargeting,Retargeting,Mobile,2024-09-25,2024-12-24
+1414,Google Ads,436594,11622,3673,26098.87,Retargeting,Retargeting,Desktop,2024-08-02,2024-11-29
+1312,TikTok,298320,15523,3008,34331.16,Millennials,Retargeting,Desktop,2024-09-06,2025-01-20
+1278,TikTok,186487,8507,2964,3041.97,New Customers,Brand Awareness,Desktop,2024-10-12,2024-11-03
+1381,LinkedIn,217231,18405,4939,5154.81,New Customers,Sales Conversion,Mobile,2024-09-29,2024-12-01
+1472,Google Ads,93925,42286,3641,36099.85,New Customers,Video Views,Desktop,2024-10-17,2024-11-08
+1362,Instagram,187023,29898,2197,4532.13,Retargeting,Brand Awareness,Mobile,2024-09-26,2024-12-15
+1324,TikTok,137388,34768,4623,4491.58,New Customers,Engagement,Mobile,2024-10-17,2025-01-05
+1431,Google Ads,58007,7237,3419,1593.32,Tech Enthusiasts,Video Views,Desktop,2024-10-19,2024-12-12
+1347,TikTok,307802,36562,989,47868.57,Gen Z,Video Views,Desktop,2024-10-13,2024-11-03
+1086,Snapchat,485048,26010,575,37137.91,Retargeting,Video Views,Mobile,2024-10-26,2024-11-21
+1075,TikTok,108596,19926,51,18309.32,Millennials,Retargeting,Mobile,2024-10-16,2024-12-31
+1438,Instagram,433245,37765,424,15530.24,Millennials,Video Views,Tablet,2024-08-04,2024-11-08
+1015,Facebook,473739,18350,2390,18135.46,Gen Z,Sales Conversion,Mobile,2024-08-17,2024-12-20
+1249,LinkedIn,401005,1114,4055,38958.02,Retargeting,Video Views,Tablet,2024-10-20,2024-11-20
+1433,LinkedIn,305266,22276,3102,33407.16,New Customers,Retargeting,Tablet,2024-08-25,2024-12-23
+1019,Instagram,398884,24577,4698,10074.58,New Customers,Video Views,Tablet,2024-10-17,2024-11-19
+1322,TikTok,65524,9874,2415,9531.36,Tech Enthusiasts,Engagement,Desktop,2024-08-03,2024-12-22
+1332,Google Ads,462498,35935,1575,5821.39,Tech Enthusiasts,Engagement,Desktop,2024-09-15,2025-01-15
+1056,TikTok,205002,31407,4526,33354.83,New Customers,Retargeting,Mobile,2024-10-28,2025-01-20
+1301,Instagram,443293,13909,1696,38454.26,Millennials,Sales Conversion,Tablet,2024-08-30,2025-01-21
+1229,LinkedIn,175501,17014,63,13987.27,Millennials,Sales Conversion,Desktop,2024-09-30,2024-12-16
+1331,TikTok,332755,30366,4649,2026.3,Tech Enthusiasts,Brand Awareness,Desktop,2024-08-24,2024-11-28
+1132,LinkedIn,198056,3483,2328,5026.41,Gen Z,Retargeting,Desktop,2024-08-31,2024-10-31
+1137,Google Ads,64060,32205,3205,48425.14,New Customers,Video Views,Desktop,2024-08-28,2024-12-09
+1423,LinkedIn,264057,21162,179,15476.79,Tech Enthusiasts,Retargeting,Desktop,2024-09-21,2024-12-15
+1335,LinkedIn,355447,24010,3864,38691.93,Tech Enthusiasts,Brand Awareness,Tablet,2024-09-18,2025-01-17
+1025,Facebook,240279,13151,4983,31608.51,New Customers,Retargeting,Tablet,2024-10-13,2025-01-04
+1464,Facebook,256118,41498,3266,19715.04,New Customers,Retargeting,Tablet,2024-08-14,2024-11-24
+1281,Snapchat,210359,29035,2988,11078.68,Millennials,Brand Awareness,Tablet,2024-08-19,2024-11-24
+1247,Facebook,89711,7140,3978,6947.93,Gen Z,Sales Conversion,Mobile,2024-10-21,2024-12-10
+1237,LinkedIn,193026,45047,2090,31135.64,Gen Z,Video Views,Tablet,2024-10-08,2024-11-19
+1117,Instagram,385484,15817,77,38957.06,New Customers,Brand Awareness,Desktop,2024-08-21,2025-01-15
+1042,LinkedIn,268134,8064,2163,32551.31,Retargeting,Engagement,Tablet,2024-08-14,2024-11-13
+1220,Instagram,152974,27845,1302,26984.8,Tech Enthusiasts,Sales Conversion,Mobile,2024-08-15,2025-01-06
+1176,Instagram,199646,48788,4406,3055.61,Tech Enthusiasts,Engagement,Desktop,2024-10-09,2024-12-03
+1320,Facebook,452400,29187,2096,48455.95,New Customers,Sales Conversion,Tablet,2024-08-22,2025-01-28
+1153,TikTok,200168,14237,4605,40137.0,Retargeting,Video Views,Tablet,2024-09-27,2024-11-04
+1231,Google Ads,117728,9823,4073,15348.28,Millennials,Video Views,Tablet,2024-10-19,2025-01-16
+1227,Facebook,215088,15729,4446,49018.55,New Customers,Retargeting,Desktop,2024-09-22,2024-11-10
+1417,Facebook,61246,44981,3424,30492.2,New Customers,Engagement,Desktop,2024-10-03,2024-12-23
+1203,TikTok,488774,9002,3516,29538.71,Tech Enthusiasts,Sales Conversion,Mobile,2024-08-09,2024-12-31
+1126,Google Ads,461597,1045,3131,37655.59,New Customers,Video Views,Desktop,2024-08-18,2025-01-27
+1329,LinkedIn,439940,37614,3828,40776.72,New Customers,Brand Awareness,Desktop,2024-09-26,2025-01-16
+1031,Snapchat,479671,29930,679,33167.45,New Customers,Video Views,Tablet,2024-08-04,2024-12-27
+1113,Snapchat,142263,10496,319,7276.69,Tech Enthusiasts,Brand Awareness,Desktop,2024-08-10,2025-01-01
+1470,LinkedIn,447234,28288,2689,17575.11,Millennials,Sales Conversion,Tablet,2024-10-05,2024-12-10
+1271,Facebook,61302,30469,2043,46476.1,Millennials,Video Views,Tablet,2024-08-01,2025-01-29
+1140,Google Ads,379650,49043,2941,12006.16,New Customers,Video Views,Desktop,2024-10-24,2024-12-13
+1057,Facebook,91157,14419,3482,19236.18,Tech Enthusiasts,Sales Conversion,Mobile,2024-10-16,2024-11-25
+1192,Instagram,104917,4310,1330,22171.77,Millennials,Video Views,Mobile,2024-09-27,2025-01-02
+1024,Facebook,273810,31086,2410,22530.84,Millennials,Brand Awareness,Desktop,2024-09-06,2024-12-29
+1017,Facebook,146646,40474,625,31034.04,Millennials,Video Views,Mobile,2024-09-22,2025-01-02
+1265,LinkedIn,395266,42273,1357,47210.72,Tech Enthusiasts,Engagement,Tablet,2024-08-07,2024-12-14
+1066,LinkedIn,336663,16871,3242,12793.94,Tech Enthusiasts,Retargeting,Tablet,2024-10-01,2024-11-12
+1208,LinkedIn,393054,45584,3228,6953.57,New Customers,Brand Awareness,Desktop,2024-09-25,2025-01-24
+1479,Snapchat,432574,30129,2784,10676.05,Gen Z,Engagement,Mobile,2024-09-15,2024-12-07
+1094,Instagram,383468,8936,2262,44459.32,Millennials,Sales Conversion,Mobile,2024-09-05,2024-12-14
+1253,LinkedIn,317552,13484,2402,32644.73,Gen Z,Brand Awareness,Tablet,2024-10-25,2025-01-01
+1266,Google Ads,109379,33539,3618,15009.43,Tech Enthusiasts,Retargeting,Desktop,2024-10-04,2024-12-19
+1023,Snapchat,75053,20395,1705,40981.4,Tech Enthusiasts,Retargeting,Mobile,2024-10-20,2025-01-27
+1222,TikTok,452662,18655,1629,43207.13,Tech Enthusiasts,Sales Conversion,Desktop,2024-09-09,2025-01-16
+1261,Google Ads,181994,11116,2253,42479.2,Gen Z,Sales Conversion,Mobile,2024-09-27,2025-01-09
+1426,Google Ads,148723,37629,1440,46027.4,Tech Enthusiasts,Brand Awareness,Tablet,2024-09-24,2025-01-17
+1005,LinkedIn,101356,40337,1792,13359.81,New Customers,Video Views,Tablet,2024-09-19,2025-01-22
+1116,TikTok,322933,25074,1975,37997.05,Tech Enthusiasts,Sales Conversion,Desktop,2024-10-14,2025-01-12
+1045,TikTok,409864,3930,669,23566.44,Retargeting,Video Views,Tablet,2024-08-04,2025-01-05
+1016,Snapchat,378800,13176,1324,42257.93,Gen Z,Engagement,Mobile,2024-08-14,2025-01-03
+1462,TikTok,356172,11316,1006,36696.04,Retargeting,Retargeting,Tablet,2024-10-10,2025-01-25
+1357,Instagram,376628,33233,1989,39045.92,Tech Enthusiasts,Video Views,Desktop,2024-08-04,2025-01-23
+1003,LinkedIn,82154,20644,4003,33151.93,New Customers,Retargeting,Desktop,2024-10-05,2025-01-13
+1218,TikTok,263942,2550,2431,9694.01,Millennials,Video Views,Desktop,2024-09-22,2024-12-13
+1405,Snapchat,314480,44960,1018,27706.32,Tech Enthusiasts,Engagement,Mobile,2024-08-21,2025-01-30
+1060,Instagram,415821,34433,1366,49248.82,New Customers,Sales Conversion,Mobile,2024-10-01,2024-11-28
+1110,Facebook,379923,25451,1093,46932.02,Gen Z,Engagement,Mobile,2024-09-22,2024-11-21
+1318,Facebook,331173,32913,331,3115.51,Retargeting,Sales Conversion,Mobile,2024-09-28,2024-10-31
+1428,Instagram,371345,35301,2894,9075.93,Retargeting,Sales Conversion,Mobile,2024-08-21,2025-01-13
+1029,Snapchat,82265,33413,1108,7454.71,Retargeting,Retargeting,Tablet,2024-09-19,2024-11-24
+1437,Instagram,415060,47537,4343,36573.02,Gen Z,Engagement,Mobile,2024-08-15,2024-11-04
+1471,LinkedIn,293322,41100,2582,41071.48,New Customers,Video Views,Mobile,2024-08-15,2025-01-14
+1026,LinkedIn,224944,25780,3878,11462.06,Gen Z,Engagement,Tablet,2024-09-09,2024-11-23
+1007,Facebook,96197,25057,1058,25786.78,Retargeting,Retargeting,Mobile,2024-08-08,2025-01-03
+1453,TikTok,437877,47554,1279,42194.45,Tech Enthusiasts,Sales Conversion,Desktop,2024-09-23,2025-01-04
+1108,Snapchat,498396,35900,1085,36907.28,Millennials,Retargeting,Mobile,2024-08-27,2024-12-21
+1037,Facebook,204782,4994,4635,27569.62,Gen Z,Brand Awareness,Mobile,2024-09-19,2025-01-02
+1157,TikTok,210558,15652,325,29927.04,Gen Z,Brand Awareness,Desktop,2024-10-04,2025-01-01
+1489,TikTok,121907,24395,2790,25909.67,New Customers,Video Views,Desktop,2024-10-10,2025-01-17
+1118,LinkedIn,441020,9655,2339,15579.87,New Customers,Retargeting,Desktop,2024-10-05,2024-12-27
+1114,Google Ads,252967,32383,1289,28686.08,Gen Z,Video Views,Desktop,2024-10-01,2025-01-21
+1175,Google Ads,376579,43694,175,34755.38,Retargeting,Video Views,Mobile,2024-10-30,2024-12-04
+1373,Instagram,352775,43501,4115,43792.82,Millennials,Brand Awareness,Desktop,2024-08-09,2024-11-22
+1181,LinkedIn,441182,2328,4362,32178.28,New Customers,Video Views,Desktop,2024-08-25,2025-01-26
+1144,TikTok,282604,45528,3918,38294.96,Retargeting,Brand Awareness,Tablet,2024-09-18,2025-01-26
+1369,Snapchat,332247,42398,1258,8843.51,Tech Enthusiasts,Sales Conversion,Desktop,2024-09-06,2024-12-27
+1390,Google Ads,114772,32623,3299,23616.32,New Customers,Retargeting,Desktop,2024-09-26,2025-01-01
+1195,TikTok,176108,38073,968,1457.25,Retargeting,Video Views,Tablet,2024-08-07,2024-12-19
+1404,Google Ads,64382,1306,3973,13087.26,Retargeting,Brand Awareness,Tablet,2024-09-12,2024-12-26
+1275,Google Ads,134291,41470,4453,36596.62,Millennials,Engagement,Mobile,2024-10-05,2024-11-01
+1454,Google Ads,413339,30257,2019,49598.69,Millennials,Video Views,Tablet,2024-09-23,2024-11-05
+1141,Snapchat,184828,35136,2843,5859.73,Tech Enthusiasts,Sales Conversion,Mobile,2024-10-05,2024-12-24
+1365,LinkedIn,332753,15061,941,20673.22,Retargeting,Sales Conversion,Tablet,2024-08-31,2024-11-25
+1067,Snapchat,197550,48780,4520,40203.48,Retargeting,Engagement,Tablet,2024-10-04,2025-01-05
+1210,Facebook,282050,24762,2083,10997.75,Millennials,Brand Awareness,Mobile,2024-10-12,2024-11-05
+1168,TikTok,482882,15399,1414,28199.16,New Customers,Video Views,Tablet,2024-09-27,2024-12-12
+1493,LinkedIn,387827,49488,178,36920.49,New Customers,Brand Awareness,Mobile,2024-09-18,2025-01-13
+1375,LinkedIn,436858,16434,1064,31183.29,Gen Z,Sales Conversion,Tablet,2024-08-21,2024-11-05
+1400,LinkedIn,180330,38697,1849,10213.21,Millennials,Brand Awareness,Desktop,2024-10-08,2025-01-16
+1272,LinkedIn,121315,42344,4662,18413.84,Gen Z,Sales Conversion,Tablet,2024-09-08,2025-01-05
+1109,Snapchat,389978,36832,1568,39405.8,Millennials,Brand Awareness,Mobile,2024-10-14,2024-12-24
+1248,LinkedIn,438349,34657,4231,28157.1,Tech Enthusiasts,Engagement,Tablet,2024-09-03,2024-11-14
+1145,Instagram,64153,12093,1248,1256.25,Retargeting,Retargeting,Mobile,2024-10-13,2024-11-01
+1092,TikTok,126325,40542,3923,38288.55,Tech Enthusiasts,Engagement,Mobile,2024-10-09,2024-11-17
+1152,LinkedIn,290773,17820,2524,2730.26,Millennials,Engagement,Desktop,2024-09-28,2024-12-22
+1367,TikTok,456215,27876,3535,37540.96,Retargeting,Retargeting,Desktop,2024-08-21,2024-12-31
+1467,Instagram,105318,44013,4099,10921.55,New Customers,Retargeting,Mobile,2024-08-27,2024-11-18
+1083,Instagram,444030,14699,3769,47945.6,New Customers,Video Views,Tablet,2024-10-27,2024-12-27
+1245,TikTok,427177,16376,352,19029.1,Gen Z,Video Views,Mobile,2024-09-15,2025-01-01
+1165,Google Ads,126077,8745,4002,17019.65,Millennials,Engagement,Mobile,2024-10-10,2024-12-24
+1163,Facebook,402618,7714,4733,8295.51,Millennials,Engagement,Tablet,2024-09-15,2024-12-09
+1199,Google Ads,183515,1226,1036,15974.61,New Customers,Sales Conversion,Tablet,2024-09-03,2024-12-16
+1228,Google Ads,256988,47100,1913,43955.89,Tech Enthusiasts,Sales Conversion,Tablet,2024-09-23,2025-01-07
+1074,Snapchat,385463,11862,4490,49820.38,Retargeting,Video Views,Tablet,2024-08-12,2024-11-03
+1478,Google Ads,175885,18797,4959,19047.17,Tech Enthusiasts,Video Views,Mobile,2024-08-14,2025-01-16
+1358,LinkedIn,421921,30948,3122,22981.92,Tech Enthusiasts,Sales Conversion,Mobile,2024-08-26,2024-12-28
+1250,Snapchat,67368,26672,3174,36381.48,New Customers,Sales Conversion,Desktop,2024-09-22,2024-12-10
+1119,Snapchat,196400,43374,1377,44423.59,New Customers,Brand Awareness,Mobile,2024-09-24,2024-12-01
+1310,Instagram,238014,8157,2458,30059.17,New Customers,Brand Awareness,Tablet,2024-10-24,2024-11-25
+1299,Google Ads,141751,19350,3723,20184.76,Gen Z,Sales Conversion,Desktop,2024-09-24,2024-12-11
+1255,Instagram,280203,25925,3341,21218.47,Tech Enthusiasts,Brand Awareness,Tablet,2024-09-21,2024-12-08
+1354,TikTok,339450,27185,4083,35085.29,Millennials,Retargeting,Mobile,2024-10-07,2025-01-23
+1399,Facebook,220987,47819,753,1157.69,Retargeting,Video Views,Desktop,2024-09-12,2024-11-25
+1225,Snapchat,349363,25078,624,31359.88,Gen Z,Video Views,Tablet,2024-10-28,2024-11-07
+1353,TikTok,261951,29331,3282,18419.16,Millennials,Sales Conversion,Desktop,2024-10-12,2024-11-18
+1234,TikTok,245716,8406,4833,39915.67,Tech Enthusiasts,Engagement,Desktop,2024-10-14,2024-12-08
+1382,LinkedIn,110279,7787,2682,5556.54,New Customers,Sales Conversion,Mobile,2024-08-19,2024-12-26
+1274,Facebook,365172,34160,3878,29821.91,Tech Enthusiasts,Brand Awareness,Tablet,2024-10-27,2024-12-05
+1036,TikTok,416407,10722,3280,24567.67,Retargeting,Engagement,Desktop,2024-09-22,2024-12-22
+1196,TikTok,50126,37943,538,32473.95,Gen Z,Brand Awareness,Desktop,2024-08-01,2024-11-04
+1139,Facebook,364473,35201,1397,4177.83,Gen Z,Retargeting,Tablet,2024-09-15,2024-11-24
+1364,Facebook,77632,18264,3731,29419.21,Retargeting,Brand Awareness,Desktop,2024-08-13,2024-12-27
+1244,TikTok,246382,45141,3223,28512.74,Millennials,Retargeting,Desktop,2024-10-21,2024-11-25
+1439,Facebook,159945,18174,4639,28472.34,Millennials,Retargeting,Desktop,2024-09-27,2024-12-09
+1286,TikTok,367320,18524,1717,30570.9,Gen Z,Brand Awareness,Tablet,2024-09-26,2024-12-31
+1059,TikTok,300869,46507,1687,34146.93,Gen Z,Brand Awareness,Tablet,2024-08-23,2025-01-20
+1111,LinkedIn,267138,24374,4164,40444.46,New Customers,Retargeting,Tablet,2024-10-21,2025-01-26
+1089,Google Ads,225399,44142,3603,14221.22,Millennials,Engagement,Tablet,2024-10-15,2025-01-11
+1436,TikTok,184869,32784,1050,41427.42,Retargeting,Retargeting,Mobile,2024-09-08,2024-11-02
+1006,Instagram,228954,18102,900,25414.53,Millennials,Video Views,Desktop,2024-08-12,2024-11-15
+1360,Snapchat,194790,38284,1438,4775.86,New Customers,Retargeting,Tablet,2024-09-13,2025-01-01
+1346,Google Ads,84560,23765,3762,3869.0,Gen Z,Engagement,Desktop,2024-09-16,2025-01-19
+1338,Google Ads,388733,26431,1417,17377.68,Gen Z,Video Views,Desktop,2024-09-30,2025-01-21
+1158,Google Ads,334260,29341,871,39459.95,New Customers,Sales Conversion,Mobile,2024-10-07,2024-12-28
+1150,LinkedIn,479460,29692,504,35676.37,Retargeting,Sales Conversion,Tablet,2024-10-13,2024-12-09
+1177,TikTok,182717,47042,1674,39642.13,Gen Z,Engagement,Tablet,2024-10-01,2024-12-19
+1393,LinkedIn,228595,43020,2822,26346.18,Tech Enthusiasts,Retargeting,Desktop,2024-08-19,2024-12-09
+1184,TikTok,174085,16085,3776,22569.75,Gen Z,Brand Awareness,Tablet,2024-09-25,2025-01-02
+1449,LinkedIn,429862,26059,3197,8225.17,Tech Enthusiasts,Engagement,Desktop,2024-09-02,2024-11-07
+1010,LinkedIn,331400,40559,4139,17081.44,New Customers,Video Views,Desktop,2024-09-18,2024-12-24
+1380,Snapchat,150158,34242,4856,22266.95,New Customers,Video Views,Mobile,2024-09-20,2024-12-28
+1103,Instagram,234245,4633,2240,5341.42,Gen Z,Sales Conversion,Mobile,2024-09-09,2024-12-29
+1081,LinkedIn,218502,15163,966,11809.99,Millennials,Video Views,Mobile,2024-10-30,2024-12-20
+1038,Snapchat,482498,22254,4036,30313.04,Tech Enthusiasts,Engagement,Desktop,2024-10-11,2024-11-04
+1314,Facebook,431863,4472,2925,37047.49,Retargeting,Video Views,Tablet,2024-10-15,2024-12-26
+1167,Instagram,380388,5795,1490,49919.03,Gen Z,Engagement,Mobile,2024-09-19,2024-11-30
+1469,LinkedIn,192766,47181,4450,46722.55,Retargeting,Brand Awareness,Tablet,2024-09-06,2025-01-03
+1296,Google Ads,368408,42373,785,32485.69,Gen Z,Sales Conversion,Mobile,2024-09-14,2024-11-20
+1474,Facebook,107545,29625,3618,21641.15,Millennials,Video Views,Mobile,2024-10-18,2024-12-16
+1198,Facebook,351368,41496,3388,32172.69,Millennials,Engagement,Desktop,2024-09-13,2024-12-08
+1297,Snapchat,410089,10403,3065,39496.93,Millennials,Retargeting,Mobile,2024-09-02,2024-12-27
+1416,Facebook,63224,3520,2939,6798.47,Millennials,Sales Conversion,Mobile,2024-09-14,2025-01-27
+1146,Instagram,90738,42255,1011,21085.34,New Customers,Brand Awareness,Desktop,2024-09-28,2024-12-24
+1392,LinkedIn,468366,20920,3039,42150.31,New Customers,Engagement,Tablet,2024-08-18,2024-11-30
+1147,LinkedIn,375875,21952,3898,19807.81,Tech Enthusiasts,Brand Awareness,Mobile,2024-09-06,2024-12-02
+1447,Google Ads,230760,46148,1076,29021.74,Retargeting,Brand Awareness,Desktop,2024-10-25,2024-12-28
+1287,Snapchat,289690,38501,3915,29800.7,Gen Z,Video Views,Mobile,2024-10-21,2024-12-21
+1123,Google Ads,189649,10016,2913,10039.34,Gen Z,Video Views,Desktop,2024-08-11,2024-12-30
+1368,Facebook,58070,47827,2551,18749.54,New Customers,Engagement,Tablet,2024-09-22,2024-12-16
+1096,Google Ads,176161,49969,1997,17391.05,Gen Z,Retargeting,Tablet,2024-09-13,2024-11-06
+1143,Instagram,58666,2896,1227,2283.64,New Customers,Engagement,Desktop,2024-09-23,2024-11-02
+1239,LinkedIn,369905,19046,4810,2185.4,Tech Enthusiasts,Retargeting,Desktop,2024-08-04,2024-12-20
+1442,Facebook,348512,19629,61,41753.16,Retargeting,Brand Awareness,Desktop,2024-09-03,2024-11-08
+1097,Google Ads,187855,2091,4449,14380.47,Tech Enthusiasts,Sales Conversion,Tablet,2024-08-19,2024-12-09
+1407,Snapchat,91914,11803,3414,26385.86,Millennials,Engagement,Mobile,2024-10-05,2024-11-01
+1122,Instagram,251579,31061,3072,15637.55,Millennials,Engagement,Tablet,2024-10-10,2024-12-30
+1183,Instagram,177738,6683,3421,47093.28,Millennials,Retargeting,Desktop,2024-08-12,2024-12-18
+1202,Google Ads,296965,27072,2880,13705.54,Tech Enthusiasts,Brand Awareness,Desktop,2024-10-11,2024-12-19
+1246,LinkedIn,379670,34580,92,22053.18,Gen Z,Brand Awareness,Tablet,2024-10-29,2024-12-08
+1305,Google Ads,488981,21195,993,43763.78,Retargeting,Retargeting,Desktop,2024-08-30,2024-11-12
+1298,Facebook,332100,7814,2440,42254.74,Millennials,Brand Awareness,Tablet,2024-08-26,2024-12-19
+1351,Google Ads,268967,20123,2595,10118.97,Millennials,Video Views,Desktop,2024-08-30,2024-12-14
+1386,Instagram,358384,2639,2461,40329.52,Millennials,Sales Conversion,Mobile,2024-09-30,2024-12-24
+1395,Google Ads,433152,47956,1054,23451.16,Retargeting,Engagement,Mobile,2024-09-03,2024-11-26
+1284,LinkedIn,480364,31790,70,24665.47,Millennials,Sales Conversion,Desktop,2024-08-22,2024-11-18
+1125,Snapchat,144270,18588,456,7540.52,Retargeting,Engagement,Tablet,2024-09-28,2024-11-22
+1302,TikTok,316901,40192,1064,4949.47,Millennials,Video Views,Mobile,2024-10-10,2024-12-25
+1223,Google Ads,69097,33630,4481,36669.03,Tech Enthusiasts,Brand Awareness,Tablet,2024-09-03,2024-12-17
+1418,LinkedIn,191467,32588,1888,25326.6,Tech Enthusiasts,Retargeting,Desktop,2024-09-07,2025-01-16
+1219,LinkedIn,197313,26792,3238,22405.68,Retargeting,Video Views,Tablet,2024-10-05,2024-11-28
+1129,Snapchat,416036,46749,764,36745.9,Tech Enthusiasts,Sales Conversion,Mobile,2024-09-29,2024-12-16
+1420,Instagram,208768,21170,4196,38510.13,Retargeting,Retargeting,Tablet,2024-10-15,2024-11-12
+1289,LinkedIn,296726,4238,3904,8786.5,Tech Enthusiasts,Brand Awareness,Tablet,2024-09-06,2024-11-30
+1444,LinkedIn,382624,2969,4469,30901.03,Tech Enthusiasts,Video Views,Desktop,2024-08-12,2024-12-25
+1376,LinkedIn,96163,23034,4934,7632.35,Retargeting,Retargeting,Desktop,2024-10-29,2024-12-06
+1291,LinkedIn,69816,49374,190,37817.38,Gen Z,Video Views,Desktop,2024-09-01,2024-11-24
+1355,Facebook,493056,9517,4615,33190.8,Tech Enthusiasts,Video Views,Mobile,2024-10-18,2024-11-14
+1294,Facebook,283619,3308,4932,47874.12,Millennials,Brand Awareness,Mobile,2024-08-26,2025-01-04
+1396,Instagram,364997,49638,1013,4378.94,Gen Z,Engagement,Desktop,2024-09-02,2025-01-16
+1340,Google Ads,205989,48138,422,3795.68,Retargeting,Retargeting,Desktop,2024-09-29,2025-01-18
+1112,LinkedIn,146731,13213,3685,14827.17,Gen Z,Brand Awareness,Mobile,2024-08-16,2024-12-19
+1179,Snapchat,202638,40829,2591,13823.58,New Customers,Video Views,Mobile,2024-08-28,2024-11-03
+1307,Google Ads,256524,3219,3660,13101.96,New Customers,Brand Awareness,Mobile,2024-10-08,2024-12-09
+1432,Snapchat,112823,23390,1742,45406.47,Tech Enthusiasts,Engagement,Mobile,2024-10-15,2025-01-14
+1487,Google Ads,201878,12200,155,13227.76,Tech Enthusiasts,Retargeting,Desktop,2024-09-26,2024-12-11
+1481,Instagram,256592,37009,1731,14325.54,Millennials,Engagement,Mobile,2024-09-15,2024-12-19
+1422,LinkedIn,51759,43034,4147,38210.51,Gen Z,Sales Conversion,Desktop,2024-08-29,2024-11-18
+1233,LinkedIn,307164,37266,4066,23037.25,New Customers,Retargeting,Tablet,2024-09-22,2024-11-21
+1311,TikTok,485165,27205,2686,39058.82,Tech Enthusiasts,Engagement,Tablet,2024-10-23,2025-01-05
+1164,Snapchat,404518,19287,2187,4202.94,Gen Z,Video Views,Mobile,2024-08-02,2024-11-03
+1136,Google Ads,183554,49345,3466,24890.99,Tech Enthusiasts,Retargeting,Tablet,2024-10-29,2024-12-12
+1197,Google Ads,336586,27088,4495,2647.07,Tech Enthusiasts,Retargeting,Tablet,2024-08-12,2024-11-20
+1258,Facebook,476935,26623,3580,4070.01,New Customers,Brand Awareness,Tablet,2024-10-18,2024-11-28
+1232,TikTok,143501,33562,1336,45415.44,New Customers,Video Views,Mobile,2024-10-01,2024-12-02
+1115,Facebook,314223,10677,3229,7823.02,Tech Enthusiasts,Sales Conversion,Mobile,2024-08-11,2024-12-07
+1120,Facebook,445933,22227,3704,27088.61,Retargeting,Engagement,Tablet,2024-08-04,2024-12-08
+1349,Facebook,109676,30720,2409,21143.68,Tech Enthusiasts,Brand Awareness,Desktop,2024-08-03,2024-11-09
+1224,Snapchat,471168,10382,494,18019.82,Tech Enthusiasts,Engagement,Tablet,2024-08-12,2024-11-15
+1402,Snapchat,267516,1636,85,45091.83,Millennials,Sales Conversion,Mobile,2024-08-27,2024-11-22
+1397,Instagram,223532,35332,1525,2069.35,Millennials,Sales Conversion,Mobile,2024-08-19,2025-01-29
+1127,Instagram,140397,32466,4007,33525.69,Millennials,Retargeting,Mobile,2024-10-29,2025-01-25
+1285,Facebook,122847,7509,1848,48206.33,Retargeting,Sales Conversion,Tablet,2024-10-28,2025-01-26
+1411,TikTok,143607,13487,1895,28448.24,Retargeting,Engagement,Desktop,2024-09-14,2024-12-22
+1107,Google Ads,270178,37811,1458,46904.3,Tech Enthusiasts,Video Views,Mobile,2024-09-23,2025-01-15
+1370,Snapchat,199521,32075,1758,3560.64,Millennials,Video Views,Mobile,2024-09-13,2024-12-31
+1325,TikTok,476752,1507,2988,21520.87,Retargeting,Retargeting,Tablet,2024-09-27,2024-12-19
+1133,LinkedIn,114077,5945,1350,13747.73,New Customers,Engagement,Desktop,2024-08-20,2025-01-24
+1452,Snapchat,350402,11206,1293,36810.23,Tech Enthusiasts,Engagement,Tablet,2024-08-24,2025-01-19
+1044,Snapchat,229374,48017,4026,49083.56,Gen Z,Sales Conversion,Mobile,2024-10-07,2025-01-05
+1460,Instagram,307009,44986,3147,13569.97,Tech Enthusiasts,Engagement,Desktop,2024-10-28,2024-12-18
+1065,Google Ads,472081,29757,4666,33054.56,Gen Z,Brand Awareness,Desktop,2024-09-11,2025-01-06
+1283,Google Ads,187717,22236,59,10706.78,Millennials,Sales Conversion,Mobile,2024-09-16,2024-12-13
+1085,LinkedIn,431915,42707,2475,28701.18,Gen Z,Brand Awareness,Desktop,2024-10-22,2024-12-23
+1242,LinkedIn,88000,13781,1710,23732.69,Millennials,Retargeting,Desktop,2024-09-05,2025-01-06
+1186,Snapchat,76737,1935,2681,48628.26,New Customers,Video Views,Tablet,2024-10-14,2025-01-16
+1383,Facebook,323629,33839,4865,30817.84,Gen Z,Retargeting,Mobile,2024-09-01,2024-12-16
+1159,Instagram,350709,35650,1122,18125.81,Tech Enthusiasts,Video Views,Mobile,2024-10-12,2025-01-20
+1012,Instagram,468738,26321,3275,6590.69,Millennials,Retargeting,Mobile,2024-09-11,2024-11-12
+1035,Snapchat,431758,27160,1366,8411.09,Tech Enthusiasts,Engagement,Mobile,2024-09-24,2024-12-04
+1028,TikTok,377299,5584,4195,12040.53,Retargeting,Brand Awareness,Mobile,2024-08-18,2025-01-27
+1170,Facebook,236240,17161,3733,13297.37,Millennials,Video Views,Desktop,2024-09-12,2024-12-15
+1142,Snapchat,102487,14007,3323,42680.19,Gen Z,Sales Conversion,Tablet,2024-10-15,2024-12-03
+1398,Facebook,442092,7559,195,28499.92,Millennials,Brand Awareness,Mobile,2024-09-24,2024-12-27
+1342,Facebook,324486,18771,3090,26646.15,Tech Enthusiasts,Sales Conversion,Tablet,2024-08-19,2025-01-28
+1221,Facebook,352950,46039,1512,6623.67,New Customers,Brand Awareness,Tablet,2024-09-21,2025-01-17
+1095,Snapchat,360914,7991,4726,43146.84,Millennials,Brand Awareness,Desktop,2024-09-13,2024-12-19
+1051,Instagram,128623,47795,1634,36417.9,Gen Z,Retargeting,Mobile,2024-08-07,2025-01-21
+1240,Instagram,415321,15359,532,4315.75,Retargeting,Video Views,Desktop,2024-08-17,2024-12-31
+1484,Facebook,443170,8573,3229,35683.92,New Customers,Video Views,Mobile,2024-09-13,2025-01-15
+1378,TikTok,387773,9577,1299,27633.37,Retargeting,Brand Awareness,Desktop,2024-10-17,2025-01-08
+1178,Google Ads,433137,21453,4818,5004.54,Millennials,Engagement,Tablet,2024-10-27,2024-11-24
+1041,Snapchat,233675,11883,680,23456.73,Tech Enthusiasts,Engagement,Mobile,2024-08-22,2024-12-22
+1498,Google Ads,439088,49646,711,24750.12,Tech Enthusiasts,Sales Conversion,Tablet,2024-09-03,2024-12-12
+1421,TikTok,263046,2853,3553,9122.95,Gen Z,Sales Conversion,Tablet,2024-10-01,2025-01-25
+1206,Snapchat,155947,24321,2902,47339.21,Tech Enthusiasts,Retargeting,Desktop,2024-08-29,2025-01-07
+1282,Facebook,338543,38067,2516,42648.79,New Customers,Brand Awareness,Mobile,2024-10-23,2025-01-13
+1254,Instagram,178177,25360,1037,33782.09,Tech Enthusiasts,Sales Conversion,Tablet,2024-10-16,2025-01-26
+1412,Google Ads,266454,21695,1596,23652.48,Gen Z,Sales Conversion,Desktop,2024-08-19,2025-01-03
+1004,LinkedIn,159575,12439,699,21176.51,Millennials,Brand Awareness,Mobile,2024-10-25,2025-01-17
+1256,LinkedIn,423048,25838,1018,32897.7,Millennials,Retargeting,Mobile,2024-08-07,2024-11-14
+1448,TikTok,257606,22230,2687,27726.16,Tech Enthusiasts,Sales Conversion,Tablet,2024-09-02,2024-12-18
+1100,Facebook,498322,21927,1150,4051.38,Retargeting,Retargeting,Mobile,2024-08-06,2025-01-03
+1226,Google Ads,342822,35696,490,26112.63,Millennials,Video Views,Tablet,2024-09-07,2024-11-29
+1429,Facebook,126218,27583,819,40513.78,Tech Enthusiasts,Retargeting,Mobile,2024-09-29,2024-12-17
+1213,Google Ads,113230,22010,1393,23502.75,Gen Z,Engagement,Desktop,2024-10-14,2025-01-24
+1171,TikTok,295756,44564,4408,3545.87,Tech Enthusiasts,Engagement,Tablet,2024-09-11,2025-01-01
+1098,TikTok,386199,8313,3779,39527.63,Millennials,Retargeting,Tablet,2024-09-17,2024-12-12
+1292,LinkedIn,499589,32098,3956,10866.83,Gen Z,Engagement,Mobile,2024-09-08,2024-12-17
+1215,Facebook,212552,47682,1627,13672.42,Tech Enthusiasts,Video Views,Mobile,2024-08-01,2025-01-17
+1061,Snapchat,384402,28070,4058,9070.61,New Customers,Brand Awareness,Tablet,2024-08-14,2024-12-09
+1047,LinkedIn,89986,27582,3401,17180.54,Gen Z,Engagement,Mobile,2024-08-14,2025-01-03
+1032,Facebook,205232,29741,4845,38080.82,New Customers,Engagement,Desktop,2024-10-18,2024-11-16
+1267,LinkedIn,397739,31178,2399,26449.91,Retargeting,Retargeting,Mobile,2024-10-28,2024-12-25
+1327,Snapchat,151358,45069,3652,11039.18,Gen Z,Video Views,Desktop,2024-10-09,2025-01-23
+1200,Instagram,377073,12245,1291,44013.67,New Customers,Brand Awareness,Desktop,2024-09-18,2024-12-29
+1446,Instagram,123506,26529,1175,44099.51,Millennials,Retargeting,Desktop,2024-10-05,2024-11-01
+1027,Instagram,84911,13525,2651,43658.34,Millennials,Retargeting,Desktop,2024-10-21,2024-12-01
+1424,Instagram,399271,36624,1240,12701.01,Retargeting,Video Views,Desktop,2024-08-05,2024-12-28
+1230,Google Ads,475037,14788,4181,23110.73,Gen Z,Brand Awareness,Mobile,2024-09-17,2025-01-18
+1260,Instagram,256111,24150,4889,49264.49,Gen Z,Video Views,Desktop,2024-10-17,2024-12-05
+1288,Snapchat,425597,7040,4498,38828.61,Gen Z,Brand Awareness,Mobile,2024-10-01,2024-12-19
+1162,TikTok,134458,32732,122,2331.2,Retargeting,Video Views,Desktop,2024-09-20,2025-01-18
+1425,TikTok,62175,16922,1964,4195.02,Gen Z,Retargeting,Tablet,2024-09-08,2024-12-30
+1138,Google Ads,431379,3842,2522,23732.64,Millennials,Retargeting,Desktop,2024-08-30,2024-11-17
+1062,Instagram,366915,42346,3096,45551.79,New Customers,Sales Conversion,Tablet,2024-09-09,2025-01-28
+1135,Instagram,439301,36112,757,27396.39,Millennials,Engagement,Desktop,2024-09-04,2025-01-11
+1128,Instagram,171300,10896,1854,25392.81,Millennials,Video Views,Desktop,2024-09-07,2025-01-15
+1476,LinkedIn,136925,17982,3763,6168.21,New Customers,Sales Conversion,Desktop,2024-08-11,2024-12-19
+1008,Facebook,294446,23911,2614,33182.23,Millennials,Engagement,Tablet,2024-09-28,2024-12-02
+1326,LinkedIn,116358,47266,2525,41283.05,Retargeting,Video Views,Tablet,2024-08-02,2024-12-03
+1463,Facebook,460543,13761,3660,19640.58,New Customers,Brand Awareness,Desktop,2024-10-14,2025-01-29
+1064,Instagram,97057,3593,4305,39004.98,Millennials,Engagement,Mobile,2024-08-12,2024-11-03
+1300,Instagram,318294,12222,2873,48259.36,Tech Enthusiasts,Retargeting,Desktop,2024-09-13,2024-12-31
+1014,LinkedIn,316569,22542,1785,10984.56,Millennials,Sales Conversion,Tablet,2024-10-07,2024-11-04
+1156,LinkedIn,304726,44913,1635,26643.15,Retargeting,Engagement,Desktop,2024-08-11,2024-11-02
+1040,Facebook,328176,48351,116,15069.76,Gen Z,Engagement,Tablet,2024-08-12,2024-12-25
+1379,TikTok,52198,28587,3111,39849.87,Millennials,Retargeting,Tablet,2024-09-26,2025-01-23
+1468,Facebook,234466,32847,2478,29302.07,Gen Z,Video Views,Tablet,2024-09-11,2024-12-08
+1403,LinkedIn,463295,34256,4203,32094.54,Tech Enthusiasts,Brand Awareness,Desktop,2024-10-22,2024-11-27
+1216,Snapchat,217292,39714,391,40097.79,Millennials,Retargeting,Tablet,2024-08-12,2024-11-25
+1279,LinkedIn,485090,16835,2824,20402.55,New Customers,Brand Awareness,Tablet,2024-08-20,2024-11-04
+1434,Snapchat,194931,29102,2867,45839.41,Gen Z,Video Views,Desktop,2024-09-03,2025-01-01
+1430,Google Ads,493676,49401,2711,27118.41,Tech Enthusiasts,Engagement,Tablet,2024-10-23,2024-11-05
+1337,LinkedIn,212491,34950,1282,8739.79,New Customers,Brand Awareness,Desktop,2024-09-22,2025-01-01
+1236,Google Ads,431009,32696,3924,35099.06,New Customers,Sales Conversion,Tablet,2024-09-28,2024-11-13
+1207,TikTok,451921,6126,2451,39869.81,New Customers,Sales Conversion,Mobile,2024-09-01,2024-11-09
+1212,Facebook,486096,7924,1544,16521.32,New Customers,Retargeting,Mobile,2024-10-13,2025-01-23
+1295,Snapchat,310910,13357,4261,43001.78,Millennials,Video Views,Tablet,2024-10-12,2024-12-27
+1457,Facebook,73236,45423,711,45401.02,Millennials,Retargeting,Mobile,2024-10-16,2024-11-16
+1251,Google Ads,137955,20482,3933,14568.32,Millennials,Retargeting,Desktop,2024-08-28,2025-01-28
+1488,Snapchat,266586,11925,3669,49192.55,Tech Enthusiasts,Retargeting,Mobile,2024-08-19,2024-11-04
+1486,Facebook,153145,2480,1918,7894.86,Tech Enthusiasts,Sales Conversion,Tablet,2024-09-30,2024-11-09
+1303,LinkedIn,196430,48790,2384,10898.77,Tech Enthusiasts,Sales Conversion,Tablet,2024-09-29,2024-11-23
+1350,Instagram,280785,26931,3424,10027.02,Retargeting,Retargeting,Desktop,2024-10-05,2024-11-10
+1269,Google Ads,144914,19940,1066,44805.5,Tech Enthusiasts,Sales Conversion,Tablet,2024-10-30,2025-01-08
+1201,Facebook,415014,42252,4456,33060.34,Millennials,Video Views,Desktop,2024-09-21,2024-11-18
+1161,Google Ads,257990,17675,257,8453.11,Millennials,Retargeting,Mobile,2024-10-06,2024-12-17
+1043,Google Ads,428387,49151,2715,22575.85,Retargeting,Sales Conversion,Mobile,2024-09-28,2024-12-14
+1217,Snapchat,64596,26885,2543,31149.6,Retargeting,Brand Awareness,Desktop,2024-10-20,2025-01-16
+1401,Snapchat,476788,38658,682,5089.74,Tech Enthusiasts,Retargeting,Desktop,2024-09-20,2024-11-16
+1190,Instagram,182351,23519,2152,44238.4,Gen Z,Retargeting,Tablet,2024-08-28,2024-12-14
+1309,LinkedIn,244269,19139,3009,40376.57,Retargeting,Video Views,Mobile,2024-09-22,2024-11-19
+1259,Google Ads,423640,20494,3133,25755.13,New Customers,Engagement,Desktop,2024-09-04,2025-01-22
+1105,Facebook,442417,34875,4802,48389.2,Millennials,Engagement,Mobile,2024-09-16,2024-12-01
+1053,TikTok,188155,22063,1981,21470.29,New Customers,Video Views,Desktop,2024-10-03,2024-12-09
+1389,Google Ads,170674,39841,3769,49221.41,Millennials,Video Views,Mobile,2024-08-08,2025-01-08
+1001,Google Ads,432451,6276,2612,33728.08,Millennials,Video Views,Tablet,2024-09-15,2024-11-28
+1441,Instagram,307529,36944,1729,32098.89,Retargeting,Engagement,Mobile,2024-09-19,2024-12-20
+1482,LinkedIn,290469,3880,286,9131.79,Retargeting,Video Views,Mobile,2024-08-27,2024-12-07
+1049,TikTok,460987,9211,4493,44214.46,New Customers,Sales Conversion,Mobile,2024-10-22,2024-12-25
+1419,Snapchat,473191,9282,4775,21946.99,Millennials,Retargeting,Mobile,2024-09-30,2024-11-25
+1080,Snapchat,488864,17934,1590,8949.44,New Customers,Retargeting,Mobile,2024-08-24,2024-12-02
+1205,Facebook,306713,47265,3993,1617.77,Gen Z,Brand Awareness,Tablet,2024-09-03,2025-01-12
+1034,TikTok,491501,20517,413,28428.03,New Customers,Brand Awareness,Desktop,2024-08-31,2025-01-05
+1263,Snapchat,69063,31207,2418,26842.58,Tech Enthusiasts,Retargeting,Mobile,2024-08-15,2024-11-09
+1427,Facebook,117642,39610,335,36248.33,New Customers,Sales Conversion,Tablet,2024-09-14,2024-12-29
+1366,LinkedIn,140093,17843,198,44622.64,Tech Enthusiasts,Engagement,Mobile,2024-10-06,2024-12-18
+1091,Facebook,267215,39327,4087,4890.92,Tech Enthusiasts,Engagement,Mobile,2024-10-23,2025-01-23
+1339,Snapchat,480815,42152,4601,36843.33,Tech Enthusiasts,Sales Conversion,Desktop,2024-10-21,2024-11-11
+1473,Instagram,232992,6155,1816,10183.19,Gen Z,Engagement,Mobile,2024-10-16,2025-01-02
+1052,Instagram,209601,45359,4945,43050.68,New Customers,Video Views,Tablet,2024-09-14,2025-01-17
+1345,Instagram,85954,15751,1062,41134.11,New Customers,Retargeting,Tablet,2024-08-27,2024-11-17
+1264,Snapchat,77856,1026,2881,27498.89,Gen Z,Retargeting,Desktop,2024-09-09,2024-12-12
+1241,Instagram,52573,3724,2557,35801.9,Millennials,Sales Conversion,Mobile,2024-10-18,2024-11-22
+1013,TikTok,85367,48337,1573,16403.16,Retargeting,Engagement,Tablet,2024-08-01,2025-01-04
+1315,LinkedIn,287804,12036,2835,24087.23,New Customers,Brand Awareness,Mobile,2024-10-19,2024-11-13
+1088,Facebook,411752,29041,2606,41260.21,Retargeting,Brand Awareness,Mobile,2024-08-11,2025-01-09
+1387,Facebook,372918,14047,3775,23503.99,Gen Z,Engagement,Mobile,2024-09-12,2025-01-12
+1273,Snapchat,73752,35031,4626,18532.12,Millennials,Brand Awareness,Desktop,2024-08-13,2024-12-12
+1166,Instagram,367173,9212,1651,25216.41,Millennials,Sales Conversion,Mobile,2024-09-16,2024-12-26
+1328,Instagram,198757,39065,2458,41584.21,Millennials,Sales Conversion,Tablet,2024-09-28,2024-11-16
+1492,Google Ads,442426,9708,390,17425.19,Gen Z,Engagement,Mobile,2024-10-18,2024-11-07
+1134,LinkedIn,363837,5609,2867,9514.32,Tech Enthusiasts,Brand Awareness,Tablet,2024-09-29,2024-11-05
+1306,TikTok,166739,49768,2546,35888.69,Tech Enthusiasts,Sales Conversion,Mobile,2024-09-08,2024-12-16
+1480,Facebook,368105,35701,4980,41472.93,Retargeting,Sales Conversion,Tablet,2024-08-14,2025-01-20
+1319,Google Ads,288009,17467,1775,5931.24,Tech Enthusiasts,Video Views,Tablet,2024-08-13,2025-01-16
+1243,Google Ads,306028,30259,1739,12753.83,Tech Enthusiasts,Video Views,Mobile,2024-10-30,2024-11-22
+1054,Snapchat,257980,20672,3317,7956.63,Millennials,Sales Conversion,Mobile,2024-10-05,2024-11-06
+1363,Facebook,306609,37435,4456,18049.13,Millennials,Engagement,Tablet,2024-09-24,2025-01-25
+1050,Snapchat,438822,27089,311,23067.2,Retargeting,Retargeting,Desktop,2024-09-11,2024-12-05
+1456,TikTok,386676,30515,1492,37692.49,New Customers,Retargeting,Mobile,2024-08-14,2024-11-27
+1174,Google Ads,394138,29509,455,32906.23,Retargeting,Sales Conversion,Desktop,2024-08-12,2025-01-18
+1445,Google Ads,368277,18273,2240,31425.5,Retargeting,Sales Conversion,Mobile,2024-08-09,2024-11-11
+1189,LinkedIn,373412,41625,4487,18266.37,Gen Z,Sales Conversion,Mobile,2024-10-21,2025-01-11
+1496,TikTok,481459,26643,293,42230.93,Gen Z,Engagement,Mobile,2024-08-24,2024-11-07
+1187,Google Ads,238456,6654,4635,24093.07,Retargeting,Video Views,Mobile,2024-09-21,2025-01-01
+1169,TikTok,81653,22304,4157,48976.14,Retargeting,Sales Conversion,Desktop,2024-09-01,2025-01-06
+1058,Facebook,207729,42188,610,32072.96,Retargeting,Sales Conversion,Mobile,2024-09-16,2024-12-08
+1048,Instagram,483168,21081,4187,7186.97,Tech Enthusiasts,Brand Awareness,Tablet,2024-09-23,2024-11-08
+1344,Google Ads,465396,30587,2775,34132.7,Gen Z,Engagement,Tablet,2024-10-16,2024-12-16
+1235,LinkedIn,278504,33481,643,16930.1,Retargeting,Sales Conversion,Desktop,2024-10-17,2025-01-27
+1252,Facebook,171829,4262,1876,34630.03,Millennials,Brand Awareness,Mobile,2024-09-26,2024-12-23
+1021,TikTok,178377,46667,3279,4412.42,Millennials,Retargeting,Tablet,2024-10-19,2024-12-05
+1313,Snapchat,51622,10268,3337,9569.19,Tech Enthusiasts,Sales Conversion,Desktop,2024-10-10,2025-01-02
+1459,Facebook,98756,43908,4123,42931.13,Tech Enthusiasts,Sales Conversion,Mobile,2024-10-30,2024-11-27
+1160,Google Ads,90809,39999,183,12131.8,New Customers,Brand Awareness,Tablet,2024-09-13,2024-12-25
+1276,TikTok,66725,39059,3188,42015.02,New Customers,Engagement,Tablet,2024-10-17,2024-11-03
+1443,Instagram,242468,49090,3969,14684.53,New Customers,Sales Conversion,Desktop,2024-08-18,2025-01-24
+1191,Facebook,101226,9283,122,32501.21,Tech Enthusiasts,Retargeting,Mobile,2024-10-19,2024-11-11
+1385,Google Ads,131182,46889,4544,35013.38,Tech Enthusiasts,Sales Conversion,Mobile,2024-09-19,2024-11-25
+1293,LinkedIn,79402,30281,4275,26120.08,Tech Enthusiasts,Retargeting,Tablet,2024-09-24,2024-11-04
+1413,Snapchat,54263,31311,3028,15960.22,Millennials,Video Views,Tablet,2024-10-04,2024-12-23
+1343,TikTok,277595,49287,4411,11419.57,Tech Enthusiasts,Video Views,Tablet,2024-10-17,2025-01-02
+1257,Facebook,227900,35988,2035,2626.28,Millennials,Retargeting,Mobile,2024-10-25,2024-11-26
+1308,Facebook,97924,9405,842,15893.37,New Customers,Engagement,Desktop,2024-10-22,2024-11-05
+1149,Instagram,386326,9627,4309,33004.98,New Customers,Sales Conversion,Desktop,2024-08-30,2024-11-28
+1130,Instagram,274137,22931,144,46976.94,New Customers,Sales Conversion,Mobile,2024-10-29,2024-11-25
+1151,LinkedIn,454880,49653,1183,43689.02,Retargeting,Video Views,Desktop,2024-08-04,2025-01-03
+1359,Snapchat,347881,6868,4967,38537.17,Retargeting,Retargeting,Tablet,2024-08-14,2024-12-16
+1099,LinkedIn,413476,27924,287,39633.92,Gen Z,Sales Conversion,Desktop,2024-09-21,2024-11-20
+1372,Google Ads,401707,47324,2996,33584.26,Gen Z,Sales Conversion,Desktop,2024-08-07,2024-12-23
+1087,Google Ads,210445,45504,2580,13754.06,Gen Z,Engagement,Desktop,2024-08-24,2024-11-05
+1458,LinkedIn,217469,18833,2010,45452.56,Retargeting,Brand Awareness,Tablet,2024-10-20,2025-01-14
+1330,Snapchat,440719,23616,1098,33865.88,Retargeting,Video Views,Mobile,2024-09-27,2024-11-01
+1214,LinkedIn,151371,47719,2579,28461.59,Gen Z,Video Views,Tablet,2024-08-13,2024-11-26
+1466,Snapchat,88709,43701,3014,6438.48,Gen Z,Brand Awareness,Mobile,2024-10-29,2024-11-18
+1121,Snapchat,242192,16025,1013,22905.72,Tech Enthusiasts,Sales Conversion,Mobile,2024-09-07,2025-01-24
+1499,TikTok,200322,23898,586,23557.56,Gen Z,Engagement,Mobile,2024-10-01,2024-12-23
+1020,Snapchat,71172,33357,4273,43363.62,Tech Enthusiasts,Engagement,Desktop,2024-09-23,2024-11-09
+1188,Instagram,61555,10861,3729,27785.76,Millennials,Video Views,Desktop,2024-08-16,2025-01-27
+1071,Snapchat,103276,16869,4237,19639.63,Retargeting,Engagement,Mobile,2024-09-28,2025-01-17
+1106,Snapchat,107492,3541,3774,48863.22,Gen Z,Brand Awareness,Mobile,2024-09-13,2024-11-24
+1270,Snapchat,234074,605,592,6425.31,Retargeting,Sales Conversion,Desktop,2024-10-02,2025-01-19
+1348,Google Ads,306010,9578,895,21704.87,Retargeting,Brand Awareness,Tablet,2024-09-20,2024-12-14
+1435,Instagram,401743,25503,3653,3059.21,Retargeting,Retargeting,Mobile,2024-08-11,2025-01-01
+1102,Instagram,272320,6590,3086,37255.3,Millennials,Video Views,Tablet,2024-08-08,2024-11-06
