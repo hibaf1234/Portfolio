@@ -1,6 +1,6 @@
 # Retail Marketing Analytics
 
-# Python Project
+# Python Project (SQL and Excel will be uploaded shortly)
 
 ## Overview
 This project explores marketing analytics using Python, focusing on retail campaign performance, customer segmentation, and predictive modeling. The analysis is driven by two datasets:
