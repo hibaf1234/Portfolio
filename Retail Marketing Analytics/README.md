@@ -23,7 +23,6 @@ This project explores marketing analytics using Python, focusing on retail campa
 - **Matplotlib, Seaborn** (Data Visualization)
 - **Scikit-learn** (Machine Learning)
 - **Statsmodels** (Statistical Analysis)
-- **CausalImpact** (Impact Evaluation)
 - **SMOTE** (Imbalanced Data Handling)
 
 ## Analysis Breakdown
